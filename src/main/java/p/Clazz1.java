@@ -6,8 +6,13 @@ public class Clazz1 {
     }
     public void z(){
         
+
     } 
     public void p(){
+
+    }      
+    public void l(){
+
         
     }
 }
